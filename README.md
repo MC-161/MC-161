@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm MAHFUZ</h1>
-<h3 align="center">A Full stack developer from London</h3>
+<h3 align="center">A Software Engineer from London</h3>
 
 👨‍💻 All of my projects are available at [https://mc161.vercel.app/](https://mc161.vercel.app/)
 
